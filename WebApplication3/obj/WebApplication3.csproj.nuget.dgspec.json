@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hüseyin\\Desktop\\restapii\\WebApplication3\\WebApplication3.csproj": {}
+    "C:\\Users\\Hüseyin\\Desktop\\Yeni klasör\\restapii\\WebApplication3\\WebApplication3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hüseyin\\Desktop\\restapii\\WebApplication3\\WebApplication3.csproj": {
+    "C:\\Users\\Hüseyin\\Desktop\\Yeni klasör\\restapii\\WebApplication3\\WebApplication3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hüseyin\\Desktop\\restapii\\WebApplication3\\WebApplication3.csproj",
+        "projectUniqueName": "C:\\Users\\Hüseyin\\Desktop\\Yeni klasör\\restapii\\WebApplication3\\WebApplication3.csproj",
         "projectName": "WebApplication3",
-        "projectPath": "C:\\Users\\Hüseyin\\Desktop\\restapii\\WebApplication3\\WebApplication3.csproj",
+        "projectPath": "C:\\Users\\Hüseyin\\Desktop\\Yeni klasör\\restapii\\WebApplication3\\WebApplication3.csproj",
         "packagesPath": "C:\\Users\\Hüseyin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hüseyin\\Desktop\\restapii\\WebApplication3\\obj\\",
+        "outputPath": "C:\\Users\\Hüseyin\\Desktop\\Yeni klasör\\restapii\\WebApplication3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
